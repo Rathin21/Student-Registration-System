@@ -1,1 +1,6 @@
-# Student-Registration-System
+# Student-Registration-System![Screenshot_1](https://user-images.githubusercontent.com/114067851/193028110-a3e4fea1-2261-4457-9ffd-da24782344ce.jpg)
+![Screenshot_2](https://user-images.githubusercontent.com/114067851/193028164-e3c528fb-f3b6-4517-b318-9670e23732d2.jpg)
+![Screenshot_3](https://user-images.githubusercontent.com/114067851/193028170-9bb4cca6-7a62-493f-b4f6-13708076b0eb.jpg)
+![Screenshot_4](https://user-images.githubusercontent.com/114067851/193028175-c1b859e7-4b4b-468d-a43b-f8f404a1483b.jpg)
+![Screenshot_5](https://user-images.githubusercontent.com/114067851/193028182-4dd39388-5e7a-4faa-b4c5-5741fe8e342f.jpg)
+![Screenshot_6](https://user-images.githubusercontent.com/114067851/193028186-b48db315-9532-4321-8941-37d1c7943ef9.jpg)
